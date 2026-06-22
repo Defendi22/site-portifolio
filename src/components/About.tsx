@@ -89,7 +89,7 @@ export default function About() {
                 </motion.div>
               ))}
             </div>
-          </motion.div>
+          </motion.div> 
 
           {/* Right - Stats Card */}
           <motion.div
@@ -123,7 +123,7 @@ export default function About() {
             <div className="grid grid-cols-2 gap-4">
               {[
                 { label: 'Anos de Experiência', value: '5+' },
-                { label: 'Projetos Concluídos', value: '10+' },
+                { label: 'Projetos Concluídos', value: '20+' },
               ].map((item, i) => (
                 <motion.div
                   key={i}

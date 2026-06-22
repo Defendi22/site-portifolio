@@ -8,7 +8,7 @@ export default function Experience() {
 
   const experiences = [
     {
-      title: 'Desenvolvedor Python Senior',
+      title: 'Desenvolvedor de Software',
       company: 'Projetos Próprios',
       period: '2021 - Presente',
       location: 'São Paulo, Brasil',
@@ -22,7 +22,7 @@ export default function Experience() {
     {
       title: 'Analista de Dados',
       company: 'Projetos Diversos',
-      period: '2020 - 2021',
+      period: '2020 - 2023',
       location: 'São Paulo, Brasil',
       description: [
         'Análise exploratória de dados públicos',

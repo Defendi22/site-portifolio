@@ -8,7 +8,7 @@ export default function Stats() {
 
   const stats = [
     {
-      number: 1000,
+      number: 50000,
       label: 'Linhas de Código',
       suffix: '+',
       icon: '💻',

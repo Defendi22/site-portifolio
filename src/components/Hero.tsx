@@ -75,7 +75,7 @@ export default function Hero() {
                 className="text-xl md:text-2xl text-gray-400"
                 variants={itemVariants}
               >
-                Desenvolvedor Python Back-end • Analista de Dados • Entusiasta de IA
+                Desenvolvedor Full-stack • Analista de Dados • Entusiasta de IA
               </motion.p>
 
               <motion.p
@@ -153,10 +153,10 @@ export default function Hero() {
               <div className="absolute inset-0 rounded-3xl bg-gradient-to-r from-blue-500 to-purple-500 blur-2xl opacity-30 group-hover:opacity-50 transition-opacity -z-10" />
 
               {/* Avatar Circle */}
-              <div className="relative w-80 h-80 rounded-3xl overflow-hidden backdrop-blur-xl bg-gradient-to-br from-blue-500/20 to-purple-500/20 border border-white/20 shadow-2xl">
+              <div className="relative w-[500px] h-[500px] rounded-3xl overflow-hidden backdrop-blur-xl bg-gradient-to-br from-blue-500/20 to-purple-500/20 border border-white/20 shadow-2xl">
                 {/* Avatar Image */}
                 <img
-                  src="/avatar.jpg"
+                  src="/public/profile.jpg"
                   alt="Fernando Defendi"
                   className="w-full h-full object-cover"
                 />
@@ -208,7 +208,7 @@ export default function Hero() {
                 whileHover={{ scale: 1.1 }}
               >
                 <p className="text-sm font-semibold text-white">
-                  10+ Projetos Concluídos
+                  20+ Projetos Concluídos
                 </p>
               </motion.div>
             </motion.div>

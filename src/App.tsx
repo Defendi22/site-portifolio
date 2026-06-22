@@ -30,7 +30,7 @@ export default function App() {
         <Stats />
         <Technologies />
         <Experience />
-        <Projects />
+        {/* <Projects /> */}
         <FAQ />
         <Contact />
         <Footer />
