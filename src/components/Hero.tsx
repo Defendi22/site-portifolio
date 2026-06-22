@@ -156,7 +156,7 @@ export default function Hero() {
               <div className="relative w-[500px] h-[500px] rounded-3xl overflow-hidden backdrop-blur-xl bg-gradient-to-br from-blue-500/20 to-purple-500/20 border border-white/20 shadow-2xl">
                 {/* Avatar Image */}
                 <img
-                  src="/public/profile.jpg"
+                  src="/public/profile.webp"
                   alt="Fernando Defendi"
                   className="w-full h-full object-cover"
                 />
